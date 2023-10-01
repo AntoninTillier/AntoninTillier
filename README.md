@@ -9,7 +9,7 @@
 - 📚 Most of the code I did during my studies is available publicly on this github account.
 - ⚡ I'm french, of course I'm a foodie.
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoninTillier&hide_border=true&card_width=auto&theme=transparent"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoninTillier&card_width=auto&theme=transparent&dates=F2CA93&sideLabels=F2CA93&currStreakLabel=EEC282&sideNums=F2CA93&currStreakNum=EEC282&fire=F2CA93&ring=F2CA93"/>
 </p>
 
