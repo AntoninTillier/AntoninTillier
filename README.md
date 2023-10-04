@@ -10,6 +10,6 @@
 - 🍳 I'm french, of course I'm a foodie.
 
 <p align="center">
-  <img src="https://githubreadmestreakstats.herokuapp.com/user=AntoninTillier&card_width=auto&theme=transparent&dates=F2CA93&sideLabels=F2CA93&currStreakLabel=EEC282&sideNums=F2CA93&currStreakNum=EEC282&fire=F2CA93&ring=F2CA93"/>
+  <img src="https://streak-stats.demolab.com?user=AntoninTillier&card_width=auto&theme=transparent&dates=F2CA93&sideLabels=F2CA93&currStreakLabel=EEC282&sideNums=F2CA93&currStreakNum=EEC282&fire=F2CA93&ring=F2CA93" alt="GitHub Streak"/>
 </p>
 
